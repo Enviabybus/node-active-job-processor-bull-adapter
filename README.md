@@ -2,6 +2,12 @@
 
 Bull ActiveJobProcessor adapter used for development
 
+## Install
+
+```
+npm install @enviabybus/active-job-processor-bull-adapter
+```
+
 ## How to use
 
 ```ts
