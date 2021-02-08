@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@enviabybus/active-job-processor@../node-active-job-processor":
-  version "1.0.0"
-  dependencies:
-    typescript "^4.0.2"
+"@enviabybus/active-job-processor@^0.0.1":
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/@enviabybus/active-job-processor/-/active-job-processor-0.0.1.tgz#adb1530c2212a713412285276984d0cbd3a166f3"
+  integrity sha512-26oDjsFMRk8Ly+DonjYbaI7MCuk6uomh7JkFcYJRG+m8ZMo+MthkFCUPeSanQnPg/pHEFiwlEqs1Z4S7EopGoA==
 
 "@types/body-parser@*":
   version "1.19.0"
